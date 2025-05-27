@@ -3,18 +3,15 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
-import { BrowserRouter as Router } from 'react-router-dom';  // Import BrowserRouter
+import { HashRouter as Router } from 'react-router-dom';  // Use HashRouter instead of BrowserRouter
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <Router>  {/* Wrap App with BrowserRouter */}
+    <Router>  {/* Wrap App with HashRouter */}
       <App />
     </Router>
   </React.StrictMode>
 );
 
-// If you want to start measuring performance in your app, pass a function
-// to log results (for example: reportWebVitals(console.log))
-// or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
 reportWebVitals();
