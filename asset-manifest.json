@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/risehub-frontend/static/css/main.d186750f.css",
-    "main.js": "/risehub-frontend/static/js/main.8ce103ae.js",
+    "main.js": "/risehub-frontend/static/js/main.a8483ded.js",
     "static/js/453.7cf00dd7.chunk.js": "/risehub-frontend/static/js/453.7cf00dd7.chunk.js",
     "static/media/user.jpg": "/risehub-frontend/static/media/user.3b6bdbadc5ebb2c02edb.jpg",
     "static/media/founder.jpg": "/risehub-frontend/static/media/founder.3ef2e9e78694861f4537.jpg",
@@ -19,11 +19,11 @@
     "static/media/revicons.woff": "/risehub-frontend/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/risehub-frontend/index.html",
     "main.d186750f.css.map": "/risehub-frontend/static/css/main.d186750f.css.map",
-    "main.8ce103ae.js.map": "/risehub-frontend/static/js/main.8ce103ae.js.map",
+    "main.a8483ded.js.map": "/risehub-frontend/static/js/main.a8483ded.js.map",
     "453.7cf00dd7.chunk.js.map": "/risehub-frontend/static/js/453.7cf00dd7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d186750f.css",
-    "static/js/main.8ce103ae.js"
+    "static/js/main.a8483ded.js"
   ]
 }
